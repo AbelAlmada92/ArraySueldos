@@ -1,0 +1,15 @@
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\bin\Debug\net6.0\ArraySueldo.exe
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\bin\Debug\net6.0\ArraySueldo.deps.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\bin\Debug\net6.0\ArraySueldo.runtimeconfig.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\bin\Debug\net6.0\ArraySueldo.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\bin\Debug\net6.0\ArraySueldo.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\obj\Debug\net6.0\ArraySueldo.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\obj\Debug\net6.0\ArraySueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\obj\Debug\net6.0\ArraySueldo.AssemblyInfoInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\obj\Debug\net6.0\ArraySueldo.AssemblyInfo.cs
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\obj\Debug\net6.0\ArraySueldo.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\obj\Debug\net6.0\ArraySueldo.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\obj\Debug\net6.0\refint\ArraySueldo.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\obj\Debug\net6.0\ArraySueldo.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\obj\Debug\net6.0\ArraySueldo.genruntimeconfig.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArraySueldo\obj\Debug\net6.0\ref\ArraySueldo.dll
